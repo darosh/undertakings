@@ -1,5 +1,7 @@
 # Undertakings
 
+## Public
+
 | Year | Project | Source code | Development | Notes |
 | :--: | :--- | :--: | :--- | :--- |
 | 2015 | [Colorgram](https://cdn.rawgit.com/darosh/colorgram-js/73c4e209715ac98e1a92343f1b09749b68ce7cac/test/browser_test.html) | [Yes](https://github.com/darosh/colorgram-js) | TypeScript | Quantization experiment |
@@ -9,3 +11,7 @@
 | 2012 | [Last Chart!](http://www.lastchart.com/) | &ndash; | JavaScript, Backbone, jQuery, Bootstrap, D3 | Visualization exercise, Last.fm CORS API, SVG animation, Offline app, Local storage, Hipsters call it [a multi-interface map](http://thecreatorsproject.vice.com/blog/your-musical-taste-as-a-multi-interface-map--3) :-) |
 | 2011 | [Color GAS](http://colorgas.com/) | &ndash; | CouchDB, JavaScript | Color gradients & schemes, Popular Flickr photos quantization experiment |
 | 2004 | [piškvorky::online](http://piskvorky.cathedral.cz/) | &ndash; | MySQL, PHP, JavaScript | My first site! Board games, [370.000+](http://piskvorky.cathedral.cz/main.php?sub=2) games played, Czech language, Sweet dial-up times |
+
+## Internal
+
+_TBD&hellip;_
