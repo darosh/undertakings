@@ -8,4 +8,4 @@
 | 2014 | [TexEn](http://demo.texen.info/) | &ndash; | C++/Emscripten, JavaScript, WebGL, AngularJS, Bootstrap | Texture engine, Reanimating 10 years old C++ code with Emscripten, Pure client side texture rendering, Parallel web workers |
 | 2012 | [Last Chart!](http://www.lastchart.com/) | &ndash; | JavaScript, Backbone, jQuery, Bootstrap, D3 | Visualization exercise, Last.fm CORS API, SVG animation, Offline app, Local storage, Hipsters call it [a multi-interface map](http://thecreatorsproject.vice.com/blog/your-musical-taste-as-a-multi-interface-map--3) :-) |
 | 2011 | [Color GAS](http://colorgas.com/) | &ndash; | CouchDB, JavaScript | Color gradients & schemes, Popular Flickr photos quantization experiment |
-| 2004 | [piškvorky::online](http://piskvorky.cathedral.cz/) | &ndash; | MySQL, PHP, JavaScript | My first site! Board games, Czech, Sweet dial-up times |
+| 2004 | [piškvorky::online](http://piskvorky.cathedral.cz/) | &ndash; | MySQL, PHP, JavaScript | My first site! Board games, [370.000+](http://piskvorky.cathedral.cz/main.php?sub=2) games played, Czech language, Sweet dial-up times |
