@@ -4,7 +4,6 @@
 
 | Year | Project | Source code | Development | Notes |
 | :--: | :--- | :--: | :--- | :--- |
-| 2015 | [SSIM](http://darosh.github.io/ssim-js/test/browser_test.html) | [Yes](https://github.com/darosh/ssim-js) | TypeScript | Derivative work |
 | 2015 | [Colorgram](http://darosh.github.io/colorgram-js/test/browser_test.html) | [Yes](https://github.com/darosh/colorgram-js) | TypeScript | Quantization experiment |
 | 2015 | [Gridy](https://rawgit.com/darosh/gridy/master/examples/index.html) | [Yes](https://github.com/darosh/gridy) | TypeScript, D3 | Mostly derivative work, Transcription from Haxe |
 | 2015 | [Scrolls & Decks](http://darosh.github.io/scrolls-and-decks) | [Yes](https://github.com/darosh/scrolls-and-decks/) | AngularJS, Angular Material, TypesSript/JavaScript | Material design exercise, Canvas animation, They say [a really slick looking](https://scrolls.com/2015/05/this-week-in-scrolls-gotta-test-fast) :-) |
